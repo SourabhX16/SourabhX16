@@ -1,3 +1,5 @@
+![Metrics](https://github.com/SourabhX16/readme-changes/blob/main/github-metrics.svg)
+
 # 👾 Hello, I'm Sourabh
 
 <div align="center">
