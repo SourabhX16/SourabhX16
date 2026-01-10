@@ -7,3 +7,4 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=First+Year+Cybersecurity+Student;Just+Started+My+Journey;Learning+One+Error+At+A+Time;0x00+to+Hero)
 
 </div>
+[![GitHub Streak](https://github-readme-streak-stats-git-vercel-sps-projects-aa35fcb0.vercel.app?user=SourabhX16&theme=everforest-dark)](https://git.io/streak-stats)
